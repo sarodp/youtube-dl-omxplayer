@@ -1,3 +1,6 @@
+ปุ่มคีย์บอร์ด คำสั่งต่างๆ ชองโปรแกรม omxplayer 
+สำหรับควบคุมขณะเล่นคลิป
+
 KEY BINDINGS
        Key bindings to control omxplayer while playing:
 
