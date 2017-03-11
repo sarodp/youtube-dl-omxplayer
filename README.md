@@ -4,7 +4,7 @@ blog: howto install
 http://everyday-tech.com/how-to-search-play-youtube-videos-on-the-raspberry-pi/  
 clip:  
 https://www.youtube.com/watch?v=IXqNKplVuVU  
-forums: youtube-dl  
+forums: youtube-dl, yt    
 https://www.raspberrypi.org/forums/viewtopic.php?f=35&t=8157  
   
   
