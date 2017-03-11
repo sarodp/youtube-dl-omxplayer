@@ -1,8 +1,13 @@
 # Quick yt demo  
+Play YouTube Videos on The Raspberry Pi with YT  
+blog: howto install   
 http://everyday-tech.com/how-to-search-play-youtube-videos-on-the-raspberry-pi/  
+clip:  
 https://www.youtube.com/watch?v=IXqNKplVuVU  
+forums: youtube-dl  
 https://www.raspberrypi.org/forums/viewtopic.php?f=35&t=8157  
----  
+  
+  
 # youtube-dl-omxplayer  
 download youtube and play with omxplayer
 
