@@ -1,6 +1,7 @@
 # Quick yt demo  
 http://everyday-tech.com/how-to-search-play-youtube-videos-on-the-raspberry-pi/  
 https://www.youtube.com/watch?v=IXqNKplVuVU  
+https://www.raspberrypi.org/forums/viewtopic.php?f=35&t=8157  
 ---  
 # youtube-dl-omxplayer  
 download youtube and play with omxplayer
